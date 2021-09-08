@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cortex-debug.openocdPath": "/Users/raventt/.particle/toolchains/openocd/0.10.0-particle.1/bin/openocd"
+	}
+}

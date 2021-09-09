@@ -35,7 +35,7 @@ void alert ();
 void loop();
 String maxRead();
 #line 25 "/Users/blackbird/Dropbox/MBP_Projects/arduino/maxPhoton5Mqtt/src/maxPhoton5Mqtt.ino"
-byte server1[] = {192, 168, 0, 130};
+byte server1[] = {192, 168, 0, 129};
 
 void callback(char *topic, byte *payload, unsigned int length) {}
 

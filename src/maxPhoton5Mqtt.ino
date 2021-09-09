@@ -22,7 +22,7 @@
  * MQTT client("mqtt.eclipse.org", 1883, callback);
  **/
 
-byte server1[] = {192, 168, 0, 130};
+byte server1[] = {192, 168, 0, 129};
 
 void callback(char *topic, byte *payload, unsigned int length) {}
 

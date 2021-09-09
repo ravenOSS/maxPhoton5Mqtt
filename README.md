@@ -1,7 +1,9 @@
 # maxPhoton5Mqtt
 
-Code to read a Maxbotix ultrasonic range sensor and capture a range reading for
-further processing.
+This repo adds MQTT communication to a local network IP address where a MQTT broker resides.
+
+Use a Particle.io Photon to read a Maxbotix ultrasonic range sensor and capture a range reading for
+further processing. 
 
 In the case of the MQTT version, a string is assembled from the individual characters
 read from the sensor. This provides a ready to use object to publish through MQTT.
